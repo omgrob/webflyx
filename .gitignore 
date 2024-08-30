@@ -1,7 +1,5 @@
 # ignore secure folder
-
 secure
 
-# ignores guiltyu pleasure movies
-
+# ignores guilty pleasure movies
 guilty_pleasures.md
